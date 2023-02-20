@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10b79b36-7341-49e0-83f5-d7d5790591a8": {
+      "ProjectGuid": "10b79b36-7341-49e0-83f5-d7d5790591a8",
+      "DisplayName": "GestorEscolar_API",
+      "ColorIndex": 0
+    },
+    "633e9df7-db78-4955-bfe9-8e2724733ed2": {
+      "ProjectGuid": "633e9df7-db78-4955-bfe9-8e2724733ed2",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "5a38c35c-a85e-474c-8d45-8b1705e9c08f": {
+      "ProjectGuid": "5a38c35c-a85e-474c-8d45-8b1705e9c08f",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "7190ed99-c135-46cc-b3ed-a25d0d1539f7": {
+      "ProjectGuid": "7190ed99-c135-46cc-b3ed-a25d0d1539f7",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

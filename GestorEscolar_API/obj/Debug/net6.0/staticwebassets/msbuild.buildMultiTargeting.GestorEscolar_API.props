@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestorEscolar_API.props" />
+</Project>

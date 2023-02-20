@@ -1,0 +1,12 @@
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\bin\Debug\net6.0\Entities.dll
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\Entities.dll
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Proyectos\GestorEscolar\API\GestorEscolar\Entities\obj\Debug\net6.0\ref\Entities.dll
